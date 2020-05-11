@@ -34,7 +34,7 @@ jobs:
         image=`ls -t images/*.jpg | head -1`
         echo latest image is $image
         sed -i "s/last update:.*/last update:`date +"%F %H:%M:%S"` UTC/g" README.md
-        sed -i "s#\!\[\](images/.*)#\!\[\](images/$image)#g" README.md
+        sed -i "s#\!\[\](images/.*)#\!\[\]($image)#g" README.md
 
     - name: Commit
       run: |
