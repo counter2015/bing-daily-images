@@ -2,7 +2,7 @@ name: Collect Bing.com daily images
 
 on:
   schedule:
-    - cron:  '0 */10 * * *'
+    - cron:  '0 0 * * *'
 
 jobs:
   # This workflow contains a single job called "build"
