@@ -1,8 +1,8 @@
-# Bing Daily images
+## lastest image:
+![](images/BaliRiceHarvest.jpg)
 
 use github actions to download www.bing.com images.
 
 last update:2020-05-14 10:02:00 UTC
 
-lastest image:
-![](images/BaliRiceHarvest.jpg)
+all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
