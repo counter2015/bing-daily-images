@@ -2,7 +2,7 @@ name: place file by month
 
 on:
   schedule:
-    - cron:  '30 0 L * *'
+    - cron:  '30 0 1 * *'
 
 jobs:
   organize:
