@@ -1,0 +1,33 @@
+name: place file by month
+
+on:
+  schedule:
+    - cron:  '30 0 L * *'
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+      
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Move images by month
+      run: |
+        dir=`date +"%Y-%m"`
+        echo $dir
+        mkdir images/${dir}
+        mv images/*.jpg images/${dir}
+        
+    - name: Commit
+      run: |
+        git config user.name counter2015
+        git config user.email voidcounter@gmail.com
+        git status
+        git add images/*.jpg README.md
+        git commit -m "auto commit from github actions monthly" 
+        
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
