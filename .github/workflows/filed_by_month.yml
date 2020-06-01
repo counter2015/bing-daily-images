@@ -13,7 +13,7 @@ jobs:
 
     - name: Move images by month
       run: |
-        dir=`date +"%Y-%m"`
+        dir=`date -d"-1 day" +%Y-%m`
         echo $dir
         mkdir images/${dir}
         mv images/*.jpg images/${dir}
