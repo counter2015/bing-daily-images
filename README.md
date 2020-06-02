@@ -1,8 +1,8 @@
 ## lastest image:
-![](images/WolfPup.jpg)
+![](images/GreatReefDay.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2020-06-01 01:10:29 UTC
+last update:2020-06-02 01:10:59 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
