@@ -1,8 +1,8 @@
 ## lastest image:
-![](images/BellTowerItaly.jpg)
+![](images/MangroveForest.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2020-07-11 01:13:34 UTC
+last update:2020-07-12 01:13:21 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
