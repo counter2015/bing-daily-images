@@ -1,8 +1,8 @@
 ## lastest image:
-![](images/DubrovnikDoors.jpg)
+![](images/KapamaCousins.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2020-07-24 01:14:31 UTC
+last update:2020-07-25 01:14:06 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
