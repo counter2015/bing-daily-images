@@ -1,8 +1,8 @@
 ## lastest image:
-![](images/TahoeBeach.jpg)
+![](images/LavaShip.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2020-08-01 01:15:18 UTC
+last update:2020-08-02 01:15:03 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
