@@ -1,8 +1,8 @@
 ## lastest image:
-![](images/EDCScotland.jpg)
+![](images/CommonTernsGiving.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2020-12-01 01:37:19 UTC
+last update:2020-12-02 01:37:04 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
