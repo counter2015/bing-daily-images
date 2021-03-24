@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/TuskegeeAirmen.jpg)
+![](images/LoftedMadagascar.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2021-03-23 01:58:22 UTC
+last update:2021-03-24 02:00:20 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
