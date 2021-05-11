@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/OtterMom.jpg)
+![](images/Hokulea.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2021-05-10 02:18:03 UTC
+last update:2021-05-11 02:16:00 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
