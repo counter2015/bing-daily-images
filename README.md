@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/MinokakeRocks.jpg)
+![](images/TokyoMetropolis.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2021-07-23 01:27:12 UTC
+last update:2021-07-24 01:26:31 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
