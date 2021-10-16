@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/SaguaroFamily.jpg)
+![](images/ProseccoHills.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2021-10-15 01:28:09 UTC
+last update:2021-10-16 01:29:03 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
