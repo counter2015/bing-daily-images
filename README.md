@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/OiaVillage.jpg)
+![](images/RedCross.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2022-05-12 01:37:31 UTC
+last update:2022-05-13 01:37:39 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
