@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/RedBellied.jpg)
+![](images/KornatiNP.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2022-05-24 01:37:56 UTC
+last update:2022-05-25 01:35:52 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
