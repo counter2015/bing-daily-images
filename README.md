@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/HyaliteCreek.jpg)
+![](images/WW.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2022-05-30 01:35:37 UTC
+last update:2022-05-31 01:37:11 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
