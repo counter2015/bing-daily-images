@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/IslamicArt.jpg)
+![](images/ZNPVR.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2022-11-19 01:34:45 UTC
+last update:2022-11-20 01:36:06 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
