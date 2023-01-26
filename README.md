@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/ColleSantaLucia.jpg)
+![](images/BirksofAberfeldy.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2023-01-25 01:33:39 UTC
+last update:2023-01-26 01:34:27 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
