@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/AgueroSpain.jpg)
+![](images/ChengduPanda.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2023-03-16 01:33:33 UTC
+last update:2023-03-17 01:33:39 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
