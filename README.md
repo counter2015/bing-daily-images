@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/PalazzoFarnese.jpg)
+![](images/JutlandSpring.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2024-04-02 01:32:23 UTC
+last update:2024-04-03 01:26:46 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
