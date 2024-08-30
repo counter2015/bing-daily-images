@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/ParalympicsParis.jpg)
+![](images/CastellfollitSpain.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2024-08-29 01:34:00 UTC
+last update:2024-08-30 01:34:06 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
