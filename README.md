@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## lastest image:
-![](images/RapaNuiSunrise.jpg)
+![](images/BalboaPark.jpg)
 
 use github actions to download www.bing.com images.
 
-last update:2024-09-15 01:34:10 UTC
+last update:2024-09-16 01:34:45 UTC
 
 all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
