@@ -52,6 +52,8 @@ RESPONSE=$(curl -s -X POST \
   -d @"$TEMP_JSON" \
   https://api.openai.com/v1/chat/completions)
 
+echo $RESPONSE
+
 # Remove the temporary file
 rm "$TEMP_JSON"
 
@@ -65,7 +67,7 @@ CURRENT_DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
 cat << EOF > README.md
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/$IMAGE_PATH)
+![]($IMAGE_PATH)
 
 EOF
 
