@@ -18,6 +18,8 @@ jobs:
     - name: Download image and update README
       run: |
         bash generate_readme.sh
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
     - name: Commit
       run: |
