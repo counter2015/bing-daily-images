@@ -1,9 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
-## lastest image:
-![](images/MototiOctopus.jpg)
+## Latest image:
+![](images/images/MototiOctopus.jpg)
 
-use github actions to download www.bing.com images.
+null
 
-last update:2024-10-08 11:58:09 UTC
+Use GitHub Actions to download www.bing.com images.
 
-all images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images) 
+Last update: 2024-10-08 12:09:17 UTC
+
+All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
