@@ -2,10 +2,10 @@
 ## Latest image:
 ![](images/MototiOctopus.jpg)
 
-null
+A vividly colored octopus is gracefully swimming over a textured blue surface.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2024-10-08 12:19:18 UTC
+Last update: 2024-10-08 12:27:07 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
