@@ -58,7 +58,7 @@ create_json_payload() {
     local temp_json=$(mktemp)
     cat << EOF > "$temp_json"
 {
-  "model": "gpt-4o1",
+  "model": "gpt-4o",
   "messages": [
     {
       "role": "user",
