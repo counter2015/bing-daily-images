@@ -2,10 +2,9 @@
 ## Latest image:
 ![](images/AspensColorado.jpg)
 
-null
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2024-10-09 12:17:50 UTC
+Last update: 2024-10-09 13:32:46 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
