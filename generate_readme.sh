@@ -114,7 +114,7 @@ generate_readme() {
 
 EOF
 
-    if [ -z "$content" ]; then
+    if [ ! -z "$content" -a "$content" != "null" ]; then
         echo "$content" >> README.md
     else
         echo "" >> README.md
