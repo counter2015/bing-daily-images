@@ -19,6 +19,7 @@
 
 # Function to check if image exists
 # Usage: if image_exists "ImageName"; then ...
+image_exists() {
     local image_name=$1
     if [ -f "images/${image_name}.jpg" ]; then
         return 0  # Image exists
