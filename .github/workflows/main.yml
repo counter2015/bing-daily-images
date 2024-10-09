@@ -3,7 +3,7 @@ name: Collect Bing.com daily images
 on:
   schedule:
     - cron:  '0 1 * * *'
-
+  workflow_dispatch:
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -27,7 +27,11 @@ jobs:
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git status
         git add images/*.jpg README.md
-        git commit -m "auto commit from github actions" 
+        if git diff-index --quiet HEAD --; then
+          echo "No changes to commit."
+        else
+          git commit -m "auto commit from github actions"
+        fi        
         
     - name: Push
       uses: ad-m/github-push-action@master
