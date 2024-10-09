@@ -58,7 +58,7 @@ create_json_payload() {
     local temp_json=$(mktemp)
     cat << EOF > "$temp_json"
 {
-  "model": "gpt-4-vision-preview",
+  "model": "gpt-4o1",
   "messages": [
     {
       "role": "user",
@@ -114,8 +114,9 @@ generate_readme() {
 
 EOF
 
-    if [ ! -z "$content" ]; then
+    if [ -z "$content" ]; then
         echo "$content" >> README.md
+    else
         echo "" >> README.md
     fi
 
@@ -139,7 +140,9 @@ else
     base64_image=$(encode_image "$image_path")
     temp_json=$(create_json_payload "$base64_image")
     response=$(make_api_request "$temp_json")
+    echo "response: $response"
     rm "$temp_json"
     content=$(extract_content "$response")
+    echo "content: $content"
     generate_readme "$image_path" "$content"
 fi
