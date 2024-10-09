@@ -1,0 +1,3 @@
+exclude:
+  - generate_readme.sh
+  - LICENSE
