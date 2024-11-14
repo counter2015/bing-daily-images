@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/CoveArch.jpg)
+![](images/KelpForest.jpg)
 
-The image shows a breathtaking view through a rock arch, revealing a desert landscape with more natural arches in the distance.
+A sea lion swims gracefully through a dense forest of golden kelp in clear blue water.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2024-11-13 01:34:31 UTC
+Last update: 2024-11-14 01:34:34 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
