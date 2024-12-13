@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/DolomitesSky.jpg)
+![](images/WildPoinsettia.jpg)
 
-The image showcases a dramatic night sky filled with stars and the Milky Way, above the rugged peaks of a mountain range.
+The image shows a branch with vibrant red leaves and small buds against a blurred, natural background.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2024-12-12 01:35:03 UTC
+Last update: 2024-12-13 01:35:15 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
