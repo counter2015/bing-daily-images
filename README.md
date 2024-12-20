@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/NutcrackerBallet.jpg)
+![](images/SibiuRomania.jpg)
 
-Ballet dancers in white tutus perform gracefully on stage against a winter-themed backdrop, with a large tree and falling snowflakes.
+The image shows a festive Christmas market at night, adorned with strings of lights, a carousel, and numerous small stalls set in a historic town square.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2024-12-19 01:35:01 UTC
+Last update: 2024-12-20 01:34:25 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
