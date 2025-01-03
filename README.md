@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/PolarBearSwim.jpg)
+![](images/ArdezSwitzerland.jpg)
 
-Two polar bears interact gently on a snowy ice floe, with one standing and the other partially submerged in water.
+A picturesque snowy village is illuminated by warm lights under a starlit night sky with streaking star trails, set against a backdrop of towering mountain peaks.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-01-02 01:34:18 UTC
+Last update: 2025-01-03 01:34:25 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
