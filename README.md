@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/CrescentTail.jpg)
+![](images/CoastalWales.jpg)
 
-A school of bright orange fish swims through the deep blue ocean.
+A serene coastal landscape features a lighthouse on a rocky promontory and a stone building surrounded by grassy dunes during sunset.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-01-13 01:34:59 UTC
+Last update: 2025-01-14 01:33:56 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
