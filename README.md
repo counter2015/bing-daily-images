@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/CoastalWales.jpg)
+![](images/CadizSpain.jpg)
 
-A serene coastal landscape features a lighthouse on a rocky promontory and a stone building surrounded by grassy dunes during sunset.
+A walkway leads to a hexagonal structure overlooking a serene lake surrounded by mountainous terrain at sunset.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-01-14 01:33:56 UTC
+Last update: 2025-01-15 01:34:04 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
