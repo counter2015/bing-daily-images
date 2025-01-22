@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/KingMemorial.jpg)
+![](images/DutchSquirrel.jpg)
 
-The image shows the Martin Luther King Jr. Memorial in Washington, D.C. with the Washington Monument in the background, set against a clear blue sky.
+A curious squirrel peeks out from behind a mossy log beside a large mushroom in a forest setting.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-01-21 01:34:01 UTC
+Last update: 2025-01-22 01:34:19 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
