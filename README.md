@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/UmbrellaDay.jpg)
+![](images/YungangGrottoes.jpg)
 
-A variety of colorful umbrellas are suspended in the air against a blue sky.
+Ancient stone statues of Buddhas are carved into a rocky cliff at sunset.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-02-11 01:34:19 UTC
+Last update: 2025-02-12 01:34:25 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
