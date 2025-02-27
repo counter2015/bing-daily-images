@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/BryceHoodoos.jpg)
+![](images/ArgyllStalker.jpg)
 
-The image depicts the striking hoodoo rock formations in Bryce Canyon National Park, capped with snow and illuminated by warm sunlight.
+A solitary castle stands on a small island surrounded by calm water, with snow-covered mountains in the background.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-02-26 01:34:47 UTC
+Last update: 2025-02-27 01:34:52 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
