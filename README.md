@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/CarrizoBloom.jpg)
+![](images/SydneyHarbour.jpg)
 
-A vibrant field of yellow and purple wildflowers stretches across rolling hills under a sunset sky.
+Aerial view of a harbor featuring a prominent white-roofed building, surrounded by water and green parkland.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-03-30 01:35:23 UTC
+Last update: 2025-03-31 01:35:47 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
