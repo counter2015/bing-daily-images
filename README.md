@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/JotunheimenPark.jpg)
+![](images/ButchartFlowers.jpg)
 
-A scenic view of a turquoise lake winding between rugged mountains under a cloudy sky.
+A vibrant garden landscape is filled with diverse colorful flowers, lush green shrubs, and a central path winding through the scenery.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-05-25 01:35:51 UTC
+Last update: 2025-05-26 01:36:30 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
