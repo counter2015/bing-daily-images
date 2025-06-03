@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/GrandeTerreReef.jpg)
+![](images/EchinaceaButterfly.jpg)
 
-Aerial view of a stunning turquoise lagoon encircled by a coral reef, with distant islands and clouds on the horizon.
+A small brown moth is perched on the vibrant orange and pink center of a blooming coneflower with green leaves in the background.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-06-02 01:36:47 UTC
+Last update: 2025-06-03 01:36:18 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
