@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/NormandyBeach.jpg)
+![](images/PacificCrestTrail.jpg)
 
-The image depicts a picturesque sunset over the sea with rays of sunlight piercing through scattered clouds and reflecting on the calm water surface.
+A scenic landscape depicts a mountainous vista with dense forests, rocky cliffs, and a sky painted in warm hues of sunset.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-06-07 01:35:42 UTC
+Last update: 2025-06-08 01:36:16 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
