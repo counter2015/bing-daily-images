@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/MesquiteFlats.jpg)
+![](images/ShetlandGannets.jpg)
 
-Rolling desert sand dunes are illuminated by a vibrant pink and orange sunset sky.
+The image shows a group of seabirds diving underwater, surrounded by bubbles and motion.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-07-07 01:37:04 UTC
+Last update: 2025-07-08 01:36:36 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
