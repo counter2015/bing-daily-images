@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/KenyaElephants.jpg)
+![](images/CoronaArch.jpg)
 
-A herd of elephants walks through a grassy savannah at sunset, with mountains in the background.
+A person is rappelling from a large natural rock arch in a desert landscape with a clear blue sky.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-08-13 01:36:33 UTC
+Last update: 2025-08-14 01:37:00 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
