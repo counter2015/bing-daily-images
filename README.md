@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/DallasLegorreta.jpg)
+![](images/OzoneEarth.jpg)
 
-A tall, pink building rises dramatically against a deep blue sky, viewed from a low angle.
+The image shows a view of Earth from space at night, with illuminated cities and a dark starry sky overhead.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-09-16 01:35:07 UTC
+Last update: 2025-09-17 01:34:59 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
