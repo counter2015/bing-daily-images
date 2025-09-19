@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/YoungMoose.jpg)
+![](images/DunquinIreland.jpg)
 
-A moose with antlers is partially obscured by blurred foreground foliage, standing in a natural setting.
+A winding stone pathway leads down a grassy cliff to meet the tranquil sea, with rugged rocky formations and distant islands on the horizon.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-09-18 01:35:12 UTC
+Last update: 2025-09-19 01:35:17 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
