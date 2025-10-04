@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/OxbowBend.jpg)
+![](images/SkyeHeather.jpg)
 
-The image depicts a serene landscape with a blue lake, autumn-colored trees, and majestic mountains under a dramatic sky at sunset.
+A scenic coastal landscape at sunset, with a vibrant sky, grassy hills, and a calm sea.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-10-03 01:35:06 UTC
+Last update: 2025-10-04 01:34:48 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
