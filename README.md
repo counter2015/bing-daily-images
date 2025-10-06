@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/DragonEndeavour.jpg)
+![](images/TeacherOwl.jpg)
 
-A view of Earth from space, framed by a spacecraft window, with solar panels of the International Space Station partially visible against the planet's curvature.
+A small owl with striking yellow eyes sits perched on a lichen-covered branch in a forest.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-10-05 01:35:06 UTC
+Last update: 2025-10-06 01:35:38 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
