@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/MartimoaapaFinland.jpg)
+![](images/PumpkinFarm.jpg)
 
-The image depicts a vibrant aerial view of an expansive wetland area with intricate patterns of water and green vegetation.
+A rustic barn serves as the backdrop for rows of vibrant orange pumpkins arranged neatly on wooden pallets in a picturesque countryside setting.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-10-26 01:35:31 UTC
+Last update: 2025-10-27 01:36:49 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
