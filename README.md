@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/PumpkinFarm.jpg)
+![](images/AfricanRaven.jpg)
 
-A rustic barn serves as the backdrop for rows of vibrant orange pumpkins arranged neatly on wooden pallets in a picturesque countryside setting.
+A large black bird with intricate feather patterns and a distinctive white patch on its neck stands among tall grass.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-10-27 01:36:49 UTC
+Last update: 2025-10-28 01:35:35 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
