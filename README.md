@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/TepliceRocks.jpg)
+![](images/FanalForest.jpg)
 
-A narrow path leads through a medieval stone archway set between steep, rocky cliffs with lush green vegetation.
+A misty forest scene with large, moss-covered trees and twisted branches creating a mysterious atmosphere.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-10-29 01:36:17 UTC
+Last update: 2025-10-30 01:36:56 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
