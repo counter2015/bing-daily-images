@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/MexicoJelly.jpg)
+![](images/TowerBridgeUK.jpg)
 
-A translucent jellyfish with long, delicate tentacles floats gracefully against a dark background.
+The image shows the illuminated Tower Bridge in London against a vibrant sunset sky.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-11-04 01:35:47 UTC
+Last update: 2025-11-05 01:36:04 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
