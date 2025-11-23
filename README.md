@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/SealWaving.jpg)
+![](images/LeshanBuddha.jpg)
 
-Two seals rest on a rocky outcrop while a bird stands nearby, with a seagull and another bird in the water below.
+The image shows the Leshan Giant Buddha, a massive stone statue carved into a cliff face, surrounded by lush greenery and a clear blue sky.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-11-22 01:35:30 UTC
+Last update: 2025-11-23 01:36:41 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
