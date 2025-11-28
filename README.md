@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/OliveGrove.jpg)
+![](images/TurkeyDetail.jpg)
 
-The image shows a landscape of ancient olive trees with thick, gnarled trunks surrounded by a green and earthy environment.
+The image showcases a close-up of a bird's iridescent feathers with vibrant colors and detailed textures.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-11-27 01:36:03 UTC
+Last update: 2025-11-28 01:36:37 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
