@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/CheetahMound.jpg)
+![](images/CopanRuins.jpg)
 
-A cheetah is perched on a grassy mound in a savanna landscape, gazing into the distance.
+An ancient, moss-covered stone structure is surrounded by tall trees in a lush forest setting.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2025-12-05 01:36:48 UTC
+Last update: 2025-12-06 01:35:49 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
