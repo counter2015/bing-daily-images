@@ -1,11 +1,11 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/BurnsPark.jpg)
+![](images/NeuschwansteinWinter.jpg)
 
-A snow-covered landscape features a river flowing under a stone bridge, with snowy trees in the foreground and illuminated trees in the background.
+A timeless castle is nestled among snow-covered trees and mountains in a serene winter landscape.
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2026-01-26 01:39:11 UTC
+Last update: 2026-01-27 01:38:07 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
