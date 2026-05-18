@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/SmithRockPark.jpg)
+![](images/ShenandoahSunset.jpg)
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2026-05-17 01:42:02 UTC
+Last update: 2026-05-18 01:48:16 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
