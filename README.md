@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/CabilaoClowns.jpg)
+![](images/Palmanova.jpg)
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2026-08-18 02:17:17 UTC
+Last update: 2026-08-19 02:19:46 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
