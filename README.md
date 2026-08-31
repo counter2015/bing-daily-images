@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/SantaCatarina.jpg)
+![](images/YellowShark.jpg)
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2026-08-29 07:47:00 UTC
+Last update: 2026-08-31 06:53:00 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
