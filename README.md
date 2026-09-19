@@ -1,9 +1,9 @@
 ![Collect Bing.com daily images](https://github.com/counter2015/bing-daily-images/workflows/Collect%20Bing.com%20daily%20images/badge.svg)
 ## Latest image:
-![](images/Santenay.jpg)
+![](images/WinnatsPassPeak.jpg)
 
 Use GitHub Actions to download www.bing.com images.
 
-Last update: 2026-09-18 05:45:14 UTC
+Last update: 2026-09-19 05:39:59 UTC
 
 All images since 2020-05-10 [here](https://github.com/counter2015/bing-daily-images/tree/master/images)
